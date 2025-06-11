@@ -13,7 +13,7 @@ O objetivo deste projeto é analisar os hábitos de consumo e os padrões de com
 
 ## 📁 Dataset
 
-O dataset utilizado neste projeto é o `refined_ecommerce_product_data.csv` e possui as seguintes colunas:
+O dataset utilizado neste projeto é o refined_ecommerce_product_data.csv e possui as seguintes colunas:
 
 - **Product_ID**: Identificador único do produto  
 - **Product_Name**: Nome do produto  
@@ -21,7 +21,7 @@ O dataset utilizado neste projeto é o `refined_ecommerce_product_data.csv` e po
 - **Sub_Category**: Subcategoria (ex: Pants, Sofa, Shoes)  
 - **Price**: Preço do produto (em dólares)  
 - **Customer_Age**: Idade do cliente  
-- **Customer_Gender**: Gênero (`Male`, `Female`)  
+- **Customer_Gender**: Gênero (Male, Female)  
 - **Purchase_History**: Número de compras anteriores do cliente  
 - **Review_Rating**: Avaliação do produto  
 
@@ -38,12 +38,10 @@ O dataset utilizado neste projeto é o `refined_ecommerce_product_data.csv` e po
 - **Análises Descritivas**
   - Estatísticas sobre preço, idade, gênero, histórico de compras e avaliação
 - **Visualizações e Insights**
-## 📊 Visualizações e Insights
-
-- **Categorias preferidas por faixa etária e gênero**  
-- **Correlação entre preço e avaliação por categoria**  
-- **Subcategorias mais recorrentes**  
-- **Análise de sentimentos por categoria**  
+  - Categorias preferidas por faixa etária e gênero  
+  - Correlação entre preço e avaliação por categoria
+  - Subcategorias mais recorrentes
+  - Análise de sentimentos por categoria
 - **Conclusão Geral**
   - Sumário dos principais padrões identificados
 - **Recomendações Estratégicas**
