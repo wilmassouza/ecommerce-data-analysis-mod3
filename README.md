@@ -39,6 +39,8 @@ O dataset utilizado neste projeto é o `refined_ecommerce_product_data.csv` e po
   - Estatísticas sobre preço, idade, gênero, histórico de compras e avaliação
 - **Visualizações e Insights**
   - Categorias preferidas por faixa etária e gênero  
+![image](https://github.com/user-attachments/assets/0437c359-bb29-4c28-ada1-e491075f00e3)
+
   - Correlação entre preço e avaliação por categoria  
   - Subcategorias mais recorrentes  
   - Análise de sentimentos por categoria
