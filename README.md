@@ -131,8 +131,18 @@ O dataset `refined_ecommerce_product_data.csv` contém:
 
 ---
 
+## 📽 Visualize a Apresentação
+
+A apresentação completa com os principais insights deste projeto está disponível no link abaixo:
+
+📄 [Clique aqui para abrir a apresentação em PDF](./apresentacao/apresentacao_projeto_python.pdf)
+
+![Capa da apresentação](./apresentacao/capa_apresentacao.png)
+
+---
+
 ## 👩‍💻 Autora
 
 **Wilma Silva de Souza**  
-🔗 [LinkedIn](linkedin.com/in/wilmasdesouza)  
+🔗 [LinkedIn](https://www.linkedin.com/in/wilmasdesouza)  
 
