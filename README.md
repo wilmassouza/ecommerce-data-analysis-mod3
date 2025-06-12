@@ -1,6 +1,7 @@
 # 📊 Projeto Final - Análise de Dados de E-commerce
 
-Este projeto foi desenvolvido como parte da apresentação final do **Módulo 3 de Python** do curso de **Data Analytics**. O objetivo foi aplicar técnicas de análise de dados em um cenário realista de e-commerce, transformando dados brutos em insights acionáveis para o negócio.
+Este projeto foi desenvolvido como parte da apresentação final do **Módulo 3 de Python** do curso de **Data Analytics**. 
+O objetivo principal é aplicar técnicas de análise de dados em um contexto real de e-commerce, utilizando ferramentas aprendidas ao longo do módulo.
 
 ---
 
@@ -61,10 +62,8 @@ O dataset `refined_ecommerce_product_data.csv` contém:
 2. **Estatísticas Descritivas**
    - Análise de preços, idades, avaliações, histórico de compras.
 3. **Visualizações Interativas**
-   - Categorias, gêneros, subcategorias, correlação de variáveis.
-4. **Análise de Sentimentos**
-   - Classificação dos sentimentos nas avaliações dos produtos.
-5. **Síntese e Recomendações Estratégicas**
+   - Categorias, gêneros, subcategorias, correlação de variáveis, análise de Sentimentos.
+4. **Conclusão e Recomendações Estratégicas**
 
 ---
 
