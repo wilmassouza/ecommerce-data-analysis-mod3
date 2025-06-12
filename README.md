@@ -134,5 +134,5 @@ O dataset `refined_ecommerce_product_data.csv` contém:
 ## 👩‍💻 Autora
 
 **Wilma Silva de Souza**  
-🔗 [LinkedIn](https://www.linkedin.com/in/wilma-souza-b1b769193/)  
+🔗 [LinkedIn](linkedin.com/in/wilmasdesouza)  
 
